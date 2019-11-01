@@ -7,3 +7,5 @@ this app is not completed yet! <br/> This is my first django app. <br/> I'm list
 
 python manage.py migrate<br/>
 python manage.py shell<br/>
+
+![image](https://user-images.githubusercontent.com/43849911/68021828-8534ce80-fcc8-11e9-995c-b8771e65514b.png)
