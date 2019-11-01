@@ -1,5 +1,5 @@
-this app is not completed yet!  This is my first django app.  I'm listing some of the commands:  django-admin startproject ----,
-  python manage.py runserver ,  python manage.py startapp ----,
+this app is not completed yet! <br/> This is my first django app. <br/> I'm listing some of the commands:<br/>  django-admin startproject ----,<br/>
+  python manage.py runserver , <br/> python manage.py startapp ----,
 
 
 
