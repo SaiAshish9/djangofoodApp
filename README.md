@@ -10,9 +10,9 @@ python manage.py shell<br/>
 
 ![image](https://user-images.githubusercontent.com/43849911/68021828-8534ce80-fcc8-11e9-995c-b8771e65514b.png)
 
-python manage.py createsuperuser
+<pre>python manage.py createsuperuser
 Username: sai
 Email address: abc@abc.com
 Password: 
 Password (again):
-Superuser created successfully.
+Superuser created successfully.</pre>
